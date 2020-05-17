@@ -1,5 +1,5 @@
 # To-Do-List-JavaScript
-Design like an App this javascipt To-Do use local storage
+Design like an App this javascipt To-Do use local storage.
 
 I make a tutorial website to explain the code: 
 https://ar-todolist.netlify.app
@@ -40,4 +40,10 @@ Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/
 <br>
 - .push()
 
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Element/classList"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+<br>
+- .toggle()
 
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/ParentNode"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+<br>
+- .removechild()
