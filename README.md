@@ -13,16 +13,31 @@ It's my first try.
 # Select Elements:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Document/querySelector"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="150px;"></a>
 <br>
-- document.querySelector()
-- document.getElementById
+- document.querySelector();
+- document.getElementById();
 
-# Conditional Rendering:
-What i learned.
-- There are Vue directives to conditionally render elements:
-- v-if
-- v-else-if
-- v-else
-- v-show
-- If whatever is inside the directive’s quotes is truthy, the element will display.
-- You can use expressions inside the directive’s quotes.
-- V-show only toggles visibility, it does not insert or remove the element from the DOM.
+# Insert Elements:
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Element/insertAdjacentHTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="150px;"></a>
+<br>
+- insertAdjacentHTML();
+
+
+# Add To-Do:
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/KeyboardEvent/key"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="150px;"></a>
+<br>
+- addEventlistener()
+- keyboard event
+
+
+# Stock To-Do in an Array:
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Collections_indexées"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="150px;"></a>
+<br>
+- .push()
+
+
+# Update Todo:
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Collections_indexées"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="150px;"></a>
+<br>
+- .push()
+
+
