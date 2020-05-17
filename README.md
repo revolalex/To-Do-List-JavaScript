@@ -53,16 +53,26 @@ Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Event/target"
 
 # Local Data:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+
 <br>
+
 - setItem();
 - getItem();
 - JSON.stringify();
+
 <br>
+
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON/parse"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+
 <br>
+
 - JSON.parse();
+
 <br>
+
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Storage/clear"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+
 <br>
+
 - .clear();
 
