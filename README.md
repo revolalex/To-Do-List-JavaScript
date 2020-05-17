@@ -25,25 +25,38 @@ Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Element/inser
 # Add To-Do:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/KeyboardEvent/key"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
 <br>
-- addEventlistener()
+- addEventlistener();
 - keyboard event
 
 
 # Stock To-Do in an Array:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Collections_indexées"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
 <br>
-- .push()
+- .push();
 
 
 # Update Todo:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Collections_indexées"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
 <br>
-- .push()
+- .push();
 
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Element/classList"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
 <br>
-- .toggle()
+- .toggle();
 
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/ParentNode"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
 <br>
-- .removechild()
+- .removechild();
+
+
+# Target:
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Event/target"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+<br>
+- event.target
+
+# Local Data:
+Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
+<br>
+- setItem();
+- getItem();
+
