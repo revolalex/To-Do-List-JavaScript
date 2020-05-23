@@ -9,6 +9,11 @@ It's my first try.
 
 <img width="403" alt="to-do-screen" src="https://user-images.githubusercontent.com/56839789/82138816-9936bc80-9823-11ea-8a9a-20cbfa1803ef.png">
 
+<br>
+
+<img width="403" alt="to-do-screen" src="https://user-images.githubusercontent.com/56839789/82733268-03170080-9d13-11ea-94a9-8cc362ebeaa5.gif">
+
+
 
 # Select Elements:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Document/querySelector"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
