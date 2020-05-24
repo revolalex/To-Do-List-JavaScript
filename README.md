@@ -13,7 +13,7 @@ It's my first try.
 
 
 
-# What i learn, pratice
+# What i learn, pratice:
 
 # Select Elements:
 Lien utile: <a href="https://developer.mozilla.org/fr/docs/Web/API/Document/querySelector"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/MDN_Web_Docs.svg/1280px-MDN_Web_Docs.svg.png" alt="" width="100px;"></a>
